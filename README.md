@@ -29,5 +29,5 @@
 <img align="left" alt="Adobe After Effects" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968428.png" />
 <img align="left" alt="MySQL" width="40px" src="https://cdn-icons-png.flaticon.com/512/919/919836.png" />
 <img align="left" alt="C++" width="40px" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" />
-<img align="left" alt="C# width="40px" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" />
+<img align="left" alt="C#" width="40px" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" />
 
