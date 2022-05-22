@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on HTML/CSS
-- 🌱 I’m currently learning Bootstrap
+- 🌱 I’m currently learning JavaScript
 - 📫 How to reach me: iremmatess16@icloud.com
 
 
