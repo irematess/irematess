@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on HTML/CSS
+- 🔭 I’m currently working on HTML/CSS/JavaScript
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me: iremmatess16@icloud.com
 
