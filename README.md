@@ -1,6 +1,6 @@
 ### Hi there 🙋
 
-![](https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif)
+![](https://allhacked.com/up/2019/03/hello-world.gif)
 - 🔭 I’m currently working on HTML/CSS/JavaScript
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me: iremmatess16@icloud.com
