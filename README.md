@@ -30,7 +30,12 @@
 <img align="left" alt="Adobe After Effects" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968428.png" />
 <img align="left" alt="MySQL" width="40px" src="https://cdn-icons-png.flaticon.com/512/919/919836.png" />
 <img align="left" alt="C++" width="40px" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" />
-<img align="left" alt="C#" width="40px" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" />  <br/>
+<img align="left" alt="C#" width="40px" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" />  
 
 
-[![Visitors](http://visitor-badge.glitch.me/badge?page_id=irematess.visitor-badge)](https://github.com/irematess) [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-quare&labelColor=blue&logo=twitter&logoColor=white&link=link)](https://twitter.com/irematees16) [![Instagram Badge](https://img.shields.io/badge/-Instagram-blueviolet?style=flat-quare&labelColor=blueviolet&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/irematees16/)   [![LinkedIn Badge](https://img.shields.io/badge/-Linkedin-0077b5?style=flat-quare&labelColor=0077b5&logo=linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/iremates16/) [![HackerRank Badge](https://img.shields.io/badge/-HackerRank-006400?style=flat-quare&labelColor=006400&logo=hackerrank&logoColor=white&link=link)](https://www.hackerrank.com/irematees16?hr_r=1)
+<br/>
+
+
+ <hr/>
+
+[![Visitors](http://visitor-badge.glitch.me/badge?page_id=irematess.visitor-badge)](https://github.com/irematess) 
