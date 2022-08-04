@@ -4,7 +4,7 @@
  
 
 -  I’m currently working on HTML/CSS/JavaScript
--  I’m currently learning JavaScript
+-  I’m currently learning React
 -  How to reach me: iremmatess16@icloud.com
 
 
