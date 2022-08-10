@@ -27,9 +27,7 @@
 <img align="left" alt="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="left" alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" alt="Bootstrap" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />
-<img align="left" alt="Adobe Photoshop" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" />
-<img align="left" alt="Adobe Illustrator" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968472.png" />
-<img align="left" alt="Adobe After Effects" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968428.png" />
+
   
 
 
