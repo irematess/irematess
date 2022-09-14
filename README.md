@@ -3,7 +3,7 @@
 <h3 align="center">    <img src="https://allhacked.com/up/2019/03/hello-world.gif" /> <h3/>
  
 
--  I’m currently working on HTML/CSS/Bootstrap/JavaScript
+-  I’m currently working on JavaScript
 -  I’m currently learning React
 -  How to reach me: iremmatess16@icloud.com
 
@@ -21,10 +21,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<img align="left" alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img align="left" alt="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img align="left" alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="left" alt="Bootstrap" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />
+<img align="left" alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img align="left" alt="React" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1150px-React-icon.svg.png"/>
 
   
 
