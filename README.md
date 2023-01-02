@@ -3,7 +3,7 @@
 <h3 align="center">    <img src="https://allhacked.com/up/2019/03/hello-world.gif" /> <h3/>
  
 
--  I’m currently working on JavaScript
+-  I’m currently working on JavaScript 
 -  I’m currently learning React
 -  How to reach me: iremmatess16@gmail.com
 
