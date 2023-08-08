@@ -1,5 +1,3 @@
-<h2 align="center"> Hi there,  I'm İrem 🙋‍♀️</h2>
- 
 <h3 align="center">    <img src="https://allhacked.com/up/2019/03/hello-world.gif" /> <h3/>
  
 
