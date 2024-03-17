@@ -1,8 +1,5 @@
 <h3 align="center">    <img src="https://allhacked.com/up/2019/03/hello-world.gif" /> <h3/>
  
-
-[![](https://visitcount.itsvg.in/api?id=irematess&icon=0&color=12)](https://visitcount.itsvg.in)
-
 # 💫 About Me:
 🔭 I’m currently working on vue projects <br>🌱 I’m currently learning new Front-end technologies and frameworks.<br> 🚀 I'm passionate about creating engaging and interactive user experiences.<br>.💬 Ask me about Front-end development<br>💡 I love to explore new design trends and implement them in my projects.<br>🎯 My goal is to build intuitive and user-friendly web applications.<br>📫 How to reach me irematees16@gmail.com<br><br><br><br><br>
 
